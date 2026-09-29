@@ -1,0 +1,5 @@
+transacoes.csv
+cotacoes.csv
+relatorio_transacoes.png
+__pycache__/
+*.pyc
